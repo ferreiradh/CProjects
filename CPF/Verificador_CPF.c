@@ -1,5 +1,5 @@
 
-// Este é um programa que verifica se o CPF inserido é válido ou não
+// Esse é um programa que verifica se o CPF inserido é válido
 
 
 #include <stdio.h>

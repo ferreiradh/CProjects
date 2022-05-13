@@ -1,4 +1,3 @@
-
 // Esse é um programa para verificar se as medidas inseridas são de um triângulo ou não e para classificá-lo como equilátero, isósceles ou escaleno
 
 #include <stdio.h>
@@ -11,7 +10,7 @@ main()
 	setlocale (LC_ALL, "Portuguese");
     float l1, l2, l3;
 
-    printf("Digite o valor de cada lado:");
+    printf("Digite o valor de cada lado:\n");
     scanf("%f %f %f",&l1,&l2,&l3); 
     if (((l2-l3<l1)&&(l1<l2+l3))&&((l3-l1<l2)&&(l2<l3+l1))&&((l1-l2<l3)&&(l3<l2+l1))){
     printf ("Estes valores formam um triângulo\n");

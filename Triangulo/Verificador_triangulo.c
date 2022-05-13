@@ -1,6 +1,5 @@
 
-// Este é um programa para verificar se as medidas inseridas são de um triângulo ou não e para classificá-lo como equilátero, isósceles ou escaleno
-// Criado por Henrique Ferreira
+// Esse é um programa para verificar se as medidas inseridas são de um triângulo ou não e para classificá-lo como equilátero, isósceles ou escaleno
 
 #include <stdio.h>
 #include <math.h>

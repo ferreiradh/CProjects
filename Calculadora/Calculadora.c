@@ -1,6 +1,5 @@
 
-// Este é um programa que simula uma calculadora padrão simples
-// Criado por Henrique Ferreira
+// Esse é um programa que simula uma calculadora padrão simples
 
 
 #include <stdio.h>

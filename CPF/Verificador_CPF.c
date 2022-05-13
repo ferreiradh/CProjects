@@ -1,6 +1,5 @@
 
 // Este é um programa que verifica se o CPF inserido é válido ou não
-// Criado por Henrique Ferreira 
 
 
 #include <stdio.h>
